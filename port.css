@@ -1,0 +1,193 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: rgb(27, 106, 107);
+    color: snow;
+    padding: 20px;
+    text-align: center;
+}
+.kavin{
+    text-shadow: 6px 6px black;
+    width: 400px;
+    font-size: 40px;
+}
+.kavin:hover{
+    color: black;
+    text-shadow: 6px 6px  white;
+    cursor: pointer;
+}
+.navi{
+    
+}
+.navi:hover{
+    color: black;
+    text-shadow: 3px 3px white;
+    cursor: pointer;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-shadow: 3px 3px black;
+    font-size: 20px;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    color: black;
+    text-shadow: 3px 3px white;
+    cursor: pointer;
+
+}
+
+section {
+    padding: 20px;
+    text-align: center;
+}
+
+.project {
+    background: rgb(27, 106, 107);
+    padding: 15px;
+    margin: 10px auto;
+    max-width: 600px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    color: black;
+}
+.project:hover{
+    transform: scale(1.10);
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #333;
+    color: rgb(240, 238, 238);
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+.tech{
+     background: rgb(27, 106, 107);
+    padding: 15px;
+    margin: 10px auto;
+    max-width: 600px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+.tech:hover{
+    transform: scale(1.05);
+}
+.gap{
+    padding-left: 20px;
+    display: flex;
+    padding-right: 30px;
+    
+}
+body{
+    background-image: url(pngtree-green-background-powerpoint-design-image_15725244.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.link{
+    max-width: 30px;
+    border-radius: 5px;
+}
+.lio{
+    max-width: 30px;
+    border-radius: 20px;
+}
+.a{
+    background-color: rgb(6, 162, 45);
+    width: 250px;
+    border-radius: 30px;
+}
+.a:hover{
+    background-color: rgb(11, 92, 105);
+    cursor: pointer;
+}
+.b{
+    background-color: rgb(6, 162, 45);
+    width: 250px;
+    border-radius: 30px;
+}
+.b:hover{
+    background-color: rgb(11, 92, 105);
+    cursor: pointer;
+}
+.c{
+    background-color: rgb(6, 162, 45);
+    width: 250px;
+    border-radius: 30px;
+}
+.c:hover{
+    background-color: rgb(11, 92, 105);
+    cursor: pointer;
+}
+.d{
+    background-color: rgb(6, 162, 45);
+    width: 250px;
+    border-radius: 30px;
+}
+.d:hover{
+    background-color: rgb(11, 92, 105);
+    cursor: pointer;
+}
+.e{
+    background-color: rgb(6, 162, 45);
+    width: 350px;
+    border-radius: 30px;
+}
+.e:hover{
+    background-color: rgb(11, 92, 105);
+    cursor: pointer;
+}
+.f{
+    background-color: rgb(6, 162, 45);
+    width: 350px;
+    border-radius: 30px;
+}
+.f:hover{
+    background-color: rgb(11, 92, 105);
+    cursor: pointer;
+}
+.gap2{
+
+    font-size: 20px;
+    background-color:rgb(11, 92, 105) ;
+    width: 60px;
+    border-radius: 40px;
+    color: black;
+}
+.col{
+    width: 60px;
+    font-size: 20px;
+    background-color:rgb(11, 92, 105) ;
+    border-radius: 40px;
+    height: 30px;
+
+}
+.col:hover{
+    background-color: green;
+    box-shadow: 2px 2px 20px yellow;
+}
+.white{
+    color: white;
+}
+.grey{
+    color: greenyellow;
+}
